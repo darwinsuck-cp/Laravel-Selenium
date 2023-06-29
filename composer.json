@@ -1,5 +1,5 @@
 {
-    "name": "modelizer/selenium",
+    "name": "coreproc/selenium",
     "description": "Selenium Package for laravel 5.",
     "license": "MIT",
     "authors": [
@@ -12,7 +12,7 @@
         {
             "name": "John Hoopes",
             "email": "john.hoopes@madisoncreativeweb.com"
-        }
+        },
     ],
     "require": {
         "php": ">=7.1",
