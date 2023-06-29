@@ -12,7 +12,7 @@
         {
             "name": "John Hoopes",
             "email": "john.hoopes@madisoncreativeweb.com"
-        },
+        }
     ],
     "require": {
         "php": ">=7.1",
