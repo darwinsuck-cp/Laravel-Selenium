@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=7.1",
-        "lmc/steward": "dev-master",
+        "lmc/steward": "^3.0",
         "guzzlehttp/guzzle": "^6.2",
         "orchestra/testbench": "^3.3"
     },
